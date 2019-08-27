@@ -1,13 +1,181 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap');
 body {
-   font-family: 'Muli', sans-serif !important;
+font-family: 'Muli', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-classic_nav__model__title__name--dim {
+  
+    color: #636363 !important;
+    text-transform: capitalize;}
+.p-classic_nav__channel_header, .p-classic_nav__right_header{
+background:#222222;}
+textarea.c-input_textarea.c-input_textarea--with_hint {
+    color: white;
+    background: none;}
+.c-message__editor__input.focus{
+background: transparent;}
+.p-channel_details__notification_prefs_section__pref, .p-channel_details__notification_prefs_section__pref_label{
+color:white}
+.c-select_button {
+    background-color: black !important;}
+    
+.p-classic_nav__model__title__is_you{
+Color:white}
+.p-classic_nav__model__title__info__secondary_name{
+Color:white}
+textarea.c-input_textarea.c-input_textarea—with_hint{
+background:transparent;}
+}
+.p-workspace__primary_view_body, .p-classic_nav__channel_header, .p-classic_nav__right_header, .p-classic_nav__channel_header, .p-classic_nav__right_header{
+background:#222222}
+.p-unreads_view__header{
+background: #303030;}
+.c-button-unstyled{
+color:white}
+.p-channel_details__members_dialog__search {
+    background: #222222;
+    margin-bottom:0 !important;
+    padding-bottom:20px !important}
+    .p-threads_view_empty{
+    background:#222222;
+        position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;}
+    .p-channel_details__members_dialog__list--indicate-top {
+    border-top: transparent !important;}
+    .p-classic_nav__channel_header__title{
+    color: white !important;}
+   .p-classic_nav__model__title__info__members.c-button--focus-visible:focus, .p-classic_nav__model__title__info__members:hover, .p-classic_nav__model__title__info__pins.c-button--focus-visible:focus, .p-classic_nav__model__title__info__pins:hover, .p-classic_nav__model__title__info__shared_teams.c-button--focus-visible:focus, .p-classic_nav__model__title__info__shared_teams:hover{color:white}
+.c-pillow_file__snippet__content .CodeMirror{
+background-color:black!important}
+.p-channel_details__similar_channels_channel :hover {
+    cursor: pointer;
+    color: white;}
+.c-message__resend_column {
+    width: 4px;
+    background-color: #f00 !important;}
+.c-message--unprocessed .c-message__body {
+    animation: none !important;}
+    .c-select_options_list__option--disabled:hover {
+    cursor: default;
+    background-color: #303030;}
+    .c-base_list_entity--dim {
+    color: #959595;}
+    .c-base_list_entity--highlight-dim, .c-base_list_entity--highlight-light{
+   background: transparent !important}
+   .c-base_list_entity--highlight-dim {
+    color: grey;}
+ul li {
+color:white;}
+.c-channel_search__new_feature_alert {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #3b3b3b;
+    color: white;}
+.p-search_filter__option_label {
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    color: #36D4F6 !important;}
+.workspace__primary_view_footer{
+background:#222222 !important
+}
+.p-app_dialog__title_text{
+color:white !important}
+.p-call_subtype__description {
+    font-size: 15px;
+    line-height: 1.46668;
+    font-weight: 400;
+    color: #c0bfc0;}
+.c-unified_member__secondary-name--small, .c-usergroup__description--small{
+color:white !important}
+.p-dm_browser_modal__list_row--active {
+    background-color:black !important;}
+.c-sk-modal_header, .c-sk-modal_footer{
+background:#222222 !important}
+.p-call_subtype__body, .p-call_subtype__footer {
+    border-top: 1px solid #ddd;
+    background-color: #474747;
+    color: white !important;}
+.p-channel_details__apps_section .p-channel_details_section__icon {
+    color: #8f9b36;}
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+.c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover{
+background: #3c3c3c !important;}
+.p-message_pane_input_broadcast_warning{
+background:#202020;}
+.c-select_input__content_text{
+color:white;}
+.p-user_group_list__search{
+    background: #222;}
+    .p-message_pane_input_broadcast_warning__highlight {
+    background: #8349d9;
+    display: inline-block;
+    padding: 0 3px;
+    line-height: 20px;
+    border-radius: 3px;
+    position: relative;
+    top: 2px;
+    height: 21px;
+}
+    .p-user_group_base_row__list_item {
+    width: 100%;
+    background-color: #222222 !important;
+    border-bottom: 1px solid #323232 !important; }
+    .p-user_group_list__search {
+    border-bottom: 1px solid #686868 !important;}
+    .p-user_group_row:hover {
+    background-color: #282828 !important;}
+ .p-user_group_list {
+    background: #222222;
+    color: white;}
+ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
+    display: inline-block;
+    background: white !important;
+}
+.c-menu_item__button--danger .c-menu_item__description {
+    color: rgba(255, 255, 255, 0.7) !important;}
+.c-texty_input .ql-editor pre {
+    padding: 8px;
+    background: white;
+    color: black;}
+    .p-docs_editor_title .ql-editor p, .p-docs_editor_title .ql-editor~.ql-placeholder{
+    color:black !important}
+ts-rocket .text.pre+.pre{
+background:white !important;
+}
+ts-rocket .pre.text.first, ts-rocket.post_body .pre.text.first, ts-rocket.post_body>div>pre.first, ts-rocket>div>pre.first{
+background:white !important;}
+ts-rocket div.text *, ts-rocket.post_body div.text *{
+background: white !important;
+    color: black !important;
+}
+.c-fullscreen_modal__body{
+padding:0 !important}
+.p-message_pane_input__disabled {
+    background-color: #151515;
+    color: rgba(255, 255, 255, 0.7);
+    }
+.p-team_sidebar__add_button {
+    background: rgb(31, 39, 27);
+    border-color: rgba(61, 158, 85, 0.3);}
+    .p-team_sidebar__add_button:hover, .p-team_sidebar__add_button:focus, .p-team_sidebar__add_button:active {
+    border-color: #FFFFFF;
+    background: rgb(0, 0, 0);
+    box-shadow: 0 0 0 3px rgb(87, 226, 117), 0 0 0 6px rgba(255,255,255,0.3);}
+
 .p-member_directory__member_row {
     background-color: #1a1a1a !important;
     border-bottom: 1px solid #000 !important;}
@@ -17,12 +185,18 @@ body {
  .CodeMirror-cursor {
     border-left-color: rgba(255,255,255,1) !important;
   }
+  .p-team_sidebar, .p-team_sidebar--frameless::before {
+    background: rgb(14, 14, 14)!important;
+}
   .p-call_subtype{
   border: 1px solid #000 !important;
     background-color: #3f3f3f !important;}
  .CodeMirror-selected {
     background-color: #60609F !important;
   }
+  .p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover, .p-channel_sidebar__close_container:hover {
+    background: #313131 !important;
+}
   .c-button--outline-primary {
     transition: all 80ms linear;
     background: #3b3b3b !important;
@@ -30,6 +204,9 @@ body {
   .p-call_subtype__status, .p-call_subtype__title {
   
     color: white !important;}
+    .p-unreads_view__empty{
+    background:#222 !important;
+    color:white }
     .p-call_subtype__body, .p-call_subtype__footer {
     border-top: 1px solid #292929 !important;}
   .c-dialog_speed_bump_overlay {
@@ -509,6 +686,7 @@ p-search_filter__date:first-child {
 
 .c-message--light .c-message__sender .c-message__sender_link{
  color: #a4d677 !important;
+ text-transform: capitalize;
 }
 
 
@@ -543,7 +721,7 @@ p-search_filter__date:first-child {
 .p-channel_sidebar__section_heading_label--clickable:hover,
 .p-channel_sidebar__section_heading_label--unreads,
 .p-channel_sidebar__quickswitcher:hover {
-    color: white !importnat;
+    color: white !important;
 }
 .p-download_item__actions{
     background:none;
@@ -813,8 +991,8 @@ a.file_download_link:hover {
     color: white !important;
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
-    border-left: 2px solid #ff5656;
-    padding-left: 6px;
+    border-left: 2px solid #ff0000;
+    padding-left: 5px;
     height: 20px;
     overflow: hidden;
     line-height: 16px;
@@ -869,7 +1047,8 @@ box-shadow: inset 0 0 0 1px #ff5232 !important;
 }
 .c-button--outline:hover {
 box-shadow: none !important;
-background: green !important;
+    background: #149074 !important;
+    border:1px solid #149074 !important;
 }
 .rxn.user_reacted .emoji_rxn_count{
     color:white !important;
@@ -990,7 +1169,7 @@ color:#a4d677 !important
         }
      
          a.c-message__sender_link{
-            color: #a4d677 ;
+            color: #a4d677 !important ;
        }
         .ql-editor[aria-label]{
             color: white !important;
@@ -1264,13 +1443,15 @@ color:#a4d677 !important
     color:white !important
     }
     .c-message_list__unread_divider__label {
-   background: #f81111;
+   background: #d5376e;
     border: 1px solid transparent;
     text-transform: capitalize;
     box-shadow: 0 8px 16px rgba(0,0,0,0.4);}
+    .c-message_list__unread_divider__separator{
+    border-coilor:  #d5376e;}
     .c-message_list__unread_divider__label{
     color:white;
-        padding: 3px 4px 4px;
+        padding: 3px 4px 6px;
             margin: -8px 0 -7px 0;}
     
     
@@ -2389,210 +2570,4 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     box-shadow: 0 0 0 1px rgba(0,0,0,.08), 0 4px 12px 0 rgba(0,0,0,.08);
     background: #333;}
     .p-member_profile_field__label {
-    font-size: 13px;
-    color: rgb(255, 255, 255);}
-    .p-member_profile_field__value{
-    color:white}
-    .p-member_profile_name__subtitle{
-    color:white}
-    .p-member_profile_field__value{
-    color:white}
-    .p-member_profile_name__title {
-    font-size: 22px;
-    line-height: 1.36365;
-    font-weight: 900;
-    color: white;}
-    .p-workspace--classic-nav .p-workspace__primary_view {
-    grid-template-areas: "p-workspace__primary_view_contents";
-    grid-template-rows: auto;
-    }
-    .p-member_profile_field {
-    display: flex;
-    padding: 0 16px 12px 16px;
-    border-bottom: 1px solid #333333;}
-    .p-classic_nav__model__title__name--dim{
-    color: rgba(144, 144, 144, 0.7) !important;}
-    .p-team_sidebar__icon--active, .p-team_sidebar__icon--active:hover {
-    box-shadow: 0 0 0 3px rgb(14,14,14), 0 0 0 6px #31dad2 !important;}
-    .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before{
-    box-shadow:none !important}
-.c-team_icon--default {
-    flex-shrink: 0;
-    background-color: #383c4a !important;}
-    .p-channel_create_modal__label_title strong {
-    color: #ffffff !important;}
-    .p-invite_users_input__label_title strong {
-    color: #ffffff !important;}
-    .p-channel_create_modal__input_subtext {
-    padding-top: 4px;
-    font-size: 13px;
-    line-height: 1.38463;
-    font-weight: 400;
-    color: rgb(187, 187, 187);}
-    .p-channel_create_modal, .p-channel_create_modal__label_title, .p-channel_create_modal__private_toggle_copy_body, .p-channel_create_modal__private_toggle_copy_title, .p-channel_create_modal__share, .p-channel_name_input__label_title, .p-invite_users_input__label_title {
-    font-size: 15px;
-    line-height: 1.46668;
-    font-weight: 400;
-    color: white !important;
-}
-.c-multi_select_input {
-    position: relative;
-    border-radius: 4px;
-    border: 1px solid #868686;
-    transition: border 80ms ease-out,box-shadow 80ms ease-out;
-    overflow: hidden;
-    min-height: 36px;
-    background-color: #222222 !important;}
-    .p-invite_users_input__input_subtext {
-    padding-top: 4px;
-    font-size: 13px;
-    line-height: 1.38463;
-    font-weight: 400;
-    color: rgb(255, 255, 255) !important;}
-    .p-dm_browser_modal__list_heading {
-    font-size: 13px;
-    line-height: 1.38463;
-    font-weight: 400;
-    color: rgb(255, 255, 255) !important;}
-    .c-base_entity__metadata, .c-base_entity__subtext {
-    display: block;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
-    color: rgb(255, 255, 255) !important; }
-    .p-dm_browser_modal__list_row_meta {
-    font-size: 13px;
-    line-height: 1.38463;
-    font-weight: 400;
-    color: rgb(255, 255, 255) !important;}
-    .p-channel_create_modal__share {
-    position: absolute;
-    top: 20px;
-    left: 40px;
-    color: rgba(29,28,29,.7);
-    background-color: #000 !important;}
-    .c-alert--boxed {
-    color: #ffffff !important;}
-    .p-dm_browser_modal__controls_meta {
-    font-size: 13px;
-    line-height: 1.38463;
-    font-weight: 400;
-    color: rgba(255, 255, 255, 0.7) !important;}
-    .p-classic_nav__right__search:hover .p-classic_nav__right__search__text {
-    color: #96fff2 !important;}
-    .p-apps_browser_links__link {
-    margin-right: 24px;
-    color: #ffffff !important;}
-    .p-channel_details__subtitle {
-    color: #f9a1b8 !important;}
-    .p-channel_details__notification_prefs_section__pref, .p-channel_details__notification_prefs_section__pref_label {
-    display: block;
-    padding-bottom: 8px;
-    color: #a6a6a6 !important;
-}
-.c-message__editor__input {
-    background: #222222 !important; }
-    .p-classic_nav__channel_header, .p-classic_nav__right_header {
-    box-shadow: inset 0 -1px 0 0 rgba(0,0,0,.1);
-    background: #222222 !important;
-}
-.p-classic_nav__channel_header__subtitle {
-    font-size: 13px;
-    line-height: 1.38463;
-    font-weight: 400;
-    color: rgba(255, 255, 255, 0.7) !important;}
-    .p-channel_name_input__label_title strong {
-    color: #ffffff !important;}
-    .p-unreads_view__empty {
-  
-    background: #2e2e2e;
-    color: white;}
-    .c-token {
-    align-items: center;
-    background: #000000 !important;}
-    c-search_autocomplete__query_parts .token:hover{
-    color:black !important}
-    .p-classic_nav__model__title__name {
-    font-size: 18px;
-    line-height: 1.33334;
-    font-weight: 900;
-    display: inline-flex;
-    max-width: 100%;
-    align-items: baseline;
-    color: white !important;}
-    .p-classic_nav__model__title {
-    flex: 1;
-    min-width: 0;
-    color: white !important;}
-    .p-classic_nav__model__title__name__button {
-    display: block;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
-    color: white !important;
-}
-.p-channel_details__shared_files__empty {
-    color: rgba(255, 255, 255, 0.7)!important;}
-    .p-classic_nav__team_menu__blurb__name, .p-classic_nav__team_menu__blurb__sub {
-    display: block;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
-    color: white !important;}
-    .p-classic_nav__team_menu__blurb__sub {
-    color: rgb(247, 183, 150) !important;}
-    .p-classic_nav__team_messages_progress_bar_text{
-    fill: white !important}
-.c-select_options_list__wrapper {
-    background-color: #4f4e4e !important; }
-    .c-select_options_list__option {
-    font-size: 15px;
-    line-height: 1.46668;
-    font-weight: 400;
-    display: flex;
-    align-items: center;
-    color: #ffffff !important;}
-    .c-select_options_list__option--selected {
-    color: #1bf7ff !important;}
-     .c-basic-select{
-     margin-right:10px  }
-     .p-channel_browser_list_item {
-    display: flex;
-    min-height: 64px;
-    margin: 0 1px;
-    box-shadow: 0 -1px 0 0 #494848 !important;}
-    .p-message_pane_input__preview {
-    padding: 24px 30px;
-    background-color: #222222 !important;}
-    .p-message_pane_input__preview_metadata {
-    color: rgba(255, 255, 255, 0.7) !important;}
-    .c-base_inline_entity__primary_content {
-    display: inline;
-    white-space: pre-wrap;
-    overflow-wrap: break-word;
-    color: #5ff2ff !important;}
-    .p-message_pane_input__preview_subtitle {
-    font-size: 18px;
-    line-height: 1.33334;
-    font-weight: 900;
-    font-weight: 400;
-    color: #ffffff !important;}
-  
-    .c-texty_autocomplete__result{
-    color:white !important}
-    .overflow_ellipsis{
-    color:white !important}
- .p-classic_nav__team_header{
-     border-right: 1px solid #404040 !important;
-     }
-.c-texty_autocomplete__result_highlight{
-background:#222222 !important}
-.p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list:not(.c-virtual_list--scrollbar):before {
-    box-shadow: 0 32px #fff;
-    border-bottom: none !important;}
-    .p-unreads_view__header {
-    background: #373737;
-    color: white;}
-.p-threads_flexpane__separator_count {
-    margin-right: 12px;
-    color: #a0a0a0;}
+    
